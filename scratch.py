@@ -37,19 +37,19 @@ teams_data = {
         "Primary Color": "#FFC107"
     },
     "DC": {
-        "Players": ["Axar Patel", "Kuldeep Yadav", "Tristan Stubbs*", "Abhishek Porel"],
-        "Deduction": [1650, 1325, 1000, 400],
+        "Players": ["Axar Patel", "Kuldeep Yadav", "Tristan Stubbs*", "Abhishek Porel", "Kagiso Rabada"],
+        "Deduction": [1650, 1325, 1000, 400, 1450],
         "Total Money Spent": 4375,
         "Total Retention Deduction": 4700,
-        "Salary Cap Available": 7300,
+        "Salary Cap Available": 5850,
         "Primary Color": "#17429D"
     },
     "GT": {
-        "Players": ["Rashid Khan*", "Shubman Gill", "Sai Sudharsan", "Rahul Tewatia", "Shahrukh Khan"],
-        "Deduction": [1800, 1650, 850, 400, 400],
+        "Players": ["Rashid Khan*", "Shubman Gill", "Sai Sudharsan", "Rahul Tewatia", "Shahrukh Khan", "Mohammad Shami"],
+        "Deduction": [1800, 1650, 850, 400, 400, 1900],
         "Total Money Spent": 5100,
         "Total Retention Deduction": 5100,
-        "Salary Cap Available": 6900,
+        "Salary Cap Available": 5000,
         "Primary Color": "#1C1C1C"
     },
     "KKR": {
@@ -62,11 +62,11 @@ teams_data = {
         "Primary Color": "#3A225D"
     },
     "LSG": {
-        "Players": ["Nicholas Pooran*", "Ravi Bishnoi", "Mayank Yadav", "Moshin Khan", "Ayush Badoni"],
-        "Deduction": [2100, 1100, 400, 1000, 400],
+        "Players": ["Nicholas Pooran*", "Ravi Bishnoi", "Mayank Yadav", "Moshin Khan", "Ayush Badoni", "KL Rahul", "David Miller"],
+        "Deduction": [2100, 1100, 400, 1000, 400, 2000, 1400],
         "Total Money Spent": 5100,
         "Total Retention Deduction": 5100,
-        "Salary Cap Available": 6900,
+        "Salary Cap Available": 3500,
         "Primary Color": "#D5C026"
     },
     "MI": {
@@ -78,11 +78,11 @@ teams_data = {
         "Primary Color": "#004BA0"
     },
     "PBKS": {
-        "Players": ["Shashank Singh", "Prabhsimran Singh"],
-        "Deduction": [550, 400],
+        "Players": ["Shashank Singh", "Prabhsimran Singh", "jos buttler", "liam livingstone", "starc"],
+        "Deduction": [550, 400, 1950, 1300, 1650],
         "Total Money Spent": 950,
         "Total Retention Deduction": 950,
-        "Salary Cap Available": 11050,
+        "Salary Cap Available": 6150,
         "Primary Color": "#ED1B24"
     },
     "RR": {
@@ -95,19 +95,19 @@ teams_data = {
         "Primary Color": "#FFC1D1"
     },
     "RCB": {
-        "Players": ["Virat Kohli", "Rajat Patidar", "Yash Dayal"],
-        "Deduction": [2100, 1100, 500],
+        "Players": ["Virat Kohli", "Rajat Patidar", "Yash Dayal", "Shreyas Iyer", "Arshdeep Singh", "Rishabh Pant", "Mohammad Siraj"],
+        "Deduction": [2100, 1100, 500, 1950, 1900],
         "Total Money Spent": 3700,
         "Total Retention Deduction": 3700,
-        "Salary Cap Available": 8300,
+        "Salary Cap Available": 1000,
         "Primary Color": "#A6123D"
     },
     "SRH": {
-        "Players": ["Pat Cummins*", "Abhishek Sharma", "Nitish Kumar Reddy", "Heinrich Klaasen*", "Travis Head*"],
+        "Players": ["Pat Cummins*", "Abhishek Sharma", "Nitish Kumar Reddy", "Heinrich Klaasen*", "Travis Head*", "Yuzvendra Chahal"],
         "Deduction": [1800, 1400, 500, 2300, 1400],
         "Total Money Spent": 7500,
         "Total Retention Deduction": 7500,
-        "Salary Cap Available": 4500,
+        "Salary Cap Available": 2850,
         "Primary Color": "#FF822A"
     }
 }
