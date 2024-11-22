@@ -161,7 +161,7 @@ def display_pdf(pdf_file_path):
 st.title(" IPL 2025 Available Players for Auction")
 
 # Path to the PDF file
-pdf_file_path = "Hindustan Times.pdf"
+pdf_file_path = "data/Hindustan Times.pdf"
 
 # Display the PDF
 display_pdf(pdf_file_path)
